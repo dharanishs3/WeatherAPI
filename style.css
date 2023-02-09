@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    background-image: url(weather1_0.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;    
+}
+output{
+    font-size: xx-large;
+}
